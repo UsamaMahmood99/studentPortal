@@ -1,0 +1,13 @@
+{
+    "db":{
+    "database": "universityPortal",
+    "username" :"postgres",
+    "password": "123456",
+    "logging": false,
+    "host": "localhost",
+    "dialect":"postgres"
+},
+"jwt":{
+    "secret":"$2b$10$FPriKuV38dK1tE2KhndTSeFEv.MkX8W8WPGv2uppAFZIYCF/RvO4e"
+}
+}
